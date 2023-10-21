@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latihan 1c</title>
+    <title>Latihan 2b dan 2c </title>
     <style>
         .boxed-letter {
             background-color: lightgray;
