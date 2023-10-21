@@ -3,7 +3,7 @@
 <head>
 
     <meta charset="UTF-8">
-    <title>Modul 2 - latihan 1</title>
+    <title>Latihan 2a</title>
 </head>
 
 <body>
